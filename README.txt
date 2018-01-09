@@ -22,5 +22,4 @@ Komponen yang digunakan :
 - IFTTT
 
 Cara kerja : 
-Saat sedang keluar, pemilik rumah menghidupkan sensor pintu. Pada saat pintu tertutup, switch magnet dan magnet berdekatan sehingga switch close (terhubung). Jika ada orang yang membuka(membobol) pintu tersebut, maka switch magnet akan open dimana koneksi terputus dan akan mengirimkan laporan ke email/whatsapp
-/tweet dll kepada pemilik rumah.
+Saat sedang keluar, pemilik rumah menghidupkan sensor pintu. Pada saat pintu tertutup, switch magnet dan magnet berdekatan sehingga switch close (terhubung). Jika ada orang yang membuka(membobol) pintu tersebut, maka switch magnet akan open dimana koneksi terputus dan akan mengirimkan laporan ke Line atau Telegram kepada pemilik rumah.
