@@ -15,8 +15,9 @@ Komponen yang digunakan :
 - magnet sensor 
 - wires dan jumper
 - breadboard
-- batere
+- charger(power)
 - resistor 
+- led
 - arduino IDE
 - IFTTT
 
